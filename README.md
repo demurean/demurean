@@ -1,17 +1,17 @@
 ## Secretary of SFU's Computing Science Student Society
 > Aspiring Data Analyst and Information Technologist
-- Currently working on ReceiptTracker! An automated bank statement and receipt reconciliation.
-- I'm looking for help with pdfplumber...
 
 ## Tech Stack
-![demurean's top langs](https://github-stats-extended.vercel.app/api/top-langs/?username=demurean&langs_count=3)
-as you can see. I love my python <3
-- Other lang: SQL, R, Matlab, C/C++, HTML/CSS, Javascript
+- Language: Python, SQL, R, Matlab, C/C++, HTML/CSS, Javascript
 - Developer tools: Microsoft SQL server, PostgreSQL, MongoDB, Snowflake, Tableau, Docker
 
-## Fun things to know about me
-- I am in SFU's Shockwave dragonboat team!
-- Fish is my favourite food
+## Projects
+- Currently working on [ReceiptTracker](https://github.com/demurean/ReceiptTracker) -- automating bank statement & receipt reconciliation
+- [Yappers](https://github.com/demurean/CMPT371_A3_Yappers), a walkie-talkie app
+- [Wellness Truth and Family Foundation charity website](https://github.com/demurean/CMPT276_CharityWebPage) -- a website for the Fort St.John charity
+- Previously did database backend on hackathon projects:
+  -# [Dostemana](https://github.com/demurean/Dostemana_backend) -- a friendship network visualizer
+  -# [CampusLens](https://github.com/demurean/CampusLens) -- Vandalize the school in an AR space
 
 <!--
 **demurean/demurean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
