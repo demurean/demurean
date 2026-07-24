@@ -1,5 +1,5 @@
 ## Secretary of SFU's Computing Science Student Society
-> Aspiring Data Analyst and Information Technologist
+> Aspiring Data Analyst and Information Technologist  
 ![Pablo from OFF](https://64.media.tumblr.com/a32af557d13a5efabc5022788e801bc2/2b46eb755591bf6c-73/s100x200/f0e5e2e78bc8cc036c660bf3af7a6a83d5f9987f.pnj)
 
 ## Tech Stack
