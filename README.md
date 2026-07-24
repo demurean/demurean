@@ -17,7 +17,7 @@
   - [CampusLens](https://github.com/demurean/CampusLens) -- Vandalize the school in an AR space
 
 <img
-  style="display: block; margin-left: auto; margin-right: auto; width: 150%"
+  style="display: block; margin-left: auto; margin-right: auto; width: 150%;"
   src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/768df49b-9b9a-45f9-b8b9-56558c7b0cfb/d5hgofr-609cbc5e-6ae6-41f6-8b3f-606b7d50eb27.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83NjhkZjQ5Yi05YjlhLTQ1ZjktYjhiOS01NjU1OGM3YjBjZmIvZDVoZ29mci02MDljYmM1ZS02YWU2LTQxZjYtOGIzZi02MDZiN2Q1MGViMjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XaYuxSDIUstYxaz0q2VfKEeXNeg32KllkKXhGrIZSP0"
   alt="steampunk divider credit: https://www.deviantart.com/gasara/art/Steampunk-Chain-Divider-3-331662519"
   > </img>
