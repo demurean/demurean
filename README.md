@@ -1,4 +1,4 @@
-## Secretary of SFU's Computing Science Student Society
+## SFU's Computing Science Student Society Secretary
 > Aspiring Data Analyst and Information Technologist
 
 ![Pablo from OFF credit: https://www.tumblr.com/scout-stims/747232923553497088/off-stamps-well-prolly-make-more-later-3](https://64.media.tumblr.com/a32af557d13a5efabc5022788e801bc2/2b46eb755591bf6c-73/s100x200/f0e5e2e78bc8cc036c660bf3af7a6a83d5f9987f.pnj)
