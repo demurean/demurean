@@ -1,8 +1,10 @@
 ## Secretary of SFU's Computing Science Student Society
-Aspiring Data Analyst and Information Technologist
-> Currently working on ReceiptTracker! An automated bank statement and receipt reconciliation.
-> I'm looking for help with pdfplumber...
+> Aspiring Data Analyst and Information Technologist
+- Currently working on ReceiptTracker! An automated bank statement and receipt reconciliation.
+- I'm looking for help with pdfplumber...
 
+## Tech Stack
+[![Demurean's GitHub stats](https://github-stats-extended.vercel.app/api?username=demurean)](https://github.com/stats-organization/github-stats-extended)
 How to reach me: Email csss-current-doa@sfu.ca
 
 
