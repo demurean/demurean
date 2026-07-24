@@ -10,8 +10,8 @@
 - [Yappers](https://github.com/demurean/CMPT371_A3_Yappers), a walkie-talkie app
 - [Wellness Truth and Family Foundation charity website](https://github.com/demurean/CMPT276_CharityWebPage) -- a website for the Fort St.John charity
 - Previously did database backend on hackathon projects:
-  -# [Dostemana](https://github.com/demurean/Dostemana_backend) -- a friendship network visualizer
-  -# [CampusLens](https://github.com/demurean/CampusLens) -- Vandalize the school in an AR space
+-  [Dostemana](https://github.com/demurean/Dostemana_backend) -- a friendship network visualizer
+-  [CampusLens](https://github.com/demurean/CampusLens) -- Vandalize the school in an AR space
 
 <!--
 **demurean/demurean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
