@@ -5,8 +5,13 @@
 
 ## Tech Stack
 ![demurean's top langs](https://github-stats-extended.vercel.app/api/top-langs/?username=demurean&langs_count=3)
-How to reach me: Email csss-current-doa@sfu.ca
+as you can see. I love my python <3
+- Other lang: SQL, R, Matlab, C/C++, HTML/CSS, Javascript
+- Developer tools: Microsoft SQL server, PostgreSQL, MongoDB, Snowflake, Tableau, Docker
 
+## Fun things to know about me
+- I am in SFU's Shockwave dragonboat team!
+- Fish is my favourite food
 
 <!--
 **demurean/demurean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
