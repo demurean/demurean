@@ -1,4 +1,10 @@
-## Hi there 👋
+## Secretary of SFU's Computing Science Student Society
+Aspiring Data Analyst and Information Technologist
+> Currently working on ReceiptTracker! An automated bank statement and receipt reconciliation.
+> I'm looking for help with pdfplumber...
+
+How to reach me: Email csss-current-doa@sfu.ca
+
 
 <!--
 **demurean/demurean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
