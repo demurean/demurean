@@ -4,7 +4,7 @@
 - I'm looking for help with pdfplumber...
 
 ## Tech Stack
-[![Demurean's GitHub stats](https://github-stats-extended.vercel.app/api?username=demurean)](https://github.com/stats-organization/github-stats-extended)
+(https://github-stats-extended.vercel.app/api/top-langs/?username=demurean&langs_count=3)
 How to reach me: Email csss-current-doa@sfu.ca
 
 
